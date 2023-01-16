@@ -1,2 +1,1 @@
-John Lemley 
-13
+John Lemley
